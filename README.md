@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nacereddine REBOUH
 ==========================================================================================================================================
 
-NextJs & Laravel PHP developer | Archviz artist | Msc in Computer Vision
+NextJs & Laravel PHP web developer | Archviz artist | Msc in Computer Vision
 --------------------------------------------------------------------------
 
 I am a Full Stack Developer with expertise in Next.js, React, Laravel PHP, a Master's degree in Computer Vision and a passion for 3D graphics and architecture visualization. My technical expertise in JavaScript, PHP combined with my love for creating engaging user experiences, makes me a valuable asset to any development team. I am dedicated to delivering high-quality results and am constantly learning and staying up-to-date with industry trends.<br/>
