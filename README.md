@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nacereddine REBOUH
 ==========================================================================================================================================
 
-NextJs & Laravel PHP developer | Archviz artist | Computer Vision engineer
+NextJs & Laravel PHP developer | Archviz artist | Msc in Computer Vision
 --------------------------------------------------------------------------
 
-I am a Full Stack Developer with expertise in Next.js, React, Laravel PHP, a Master's degree in Computer Vision and a passion for 3D graphics and architecture visualization. My technical expertise in JavaScript, PHP combined with my love for creating engaging user experiences, makes me a valuable asset to any development team. I am dedicated to delivering high-quality results and am constantly learning and staying up-to-date with industry trends.
+I am a Full Stack Developer with expertise in Next.js, React, Laravel PHP, a Master's degree in Computer Vision and a passion for 3D graphics and architecture visualization. My technical expertise in JavaScript, PHP combined with my love for creating engaging user experiences, makes me a valuable asset to any development team. I am dedicated to delivering high-quality results and am constantly learning and staying up-to-date with industry trends.<br/>
 I have also worked with OpenGL and its related libraries GLFW, Glad, and GLM and i made a Rubik's cube game, you can find the repo bellow.
 
 * 🌍  I'm based in Barika, Algeria
